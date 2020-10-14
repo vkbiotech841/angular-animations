@@ -1,0 +1,8 @@
+button.list-group-item {
+  width: 100%;
+  text-align: left;
+}
+
+button {
+  outline: 0;
+}
